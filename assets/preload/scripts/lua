@@ -1,0 +1,17 @@
+--[[Script By Ansfoxy]]
+
+function onGameOver() -- ant morte
+    return Function_Stop;
+end
+
+function onUpdate(elapsed) -- pra n ficar cm a vida travada no 0%
+if getProperty('health') <= 0 then
+setProperty('health', 0.01);
+
+else
+
+end
+if getProperty('health') <= 0 then
+setProperty('health', 0.01);
+end
+end
