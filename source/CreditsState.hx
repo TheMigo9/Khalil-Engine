@@ -82,9 +82,7 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			[' Khalil Engine Team'],
-			['TheMigo',		'TheMigo',		' Main Coder',							'https://www.youtube.com/channel/UCx0LxtFR8ROd9sFAq-UxDfw',	'5DE7FF'],
-			['Khalil',	'Khalil',				'Owner of the Engin',							'https://www.youtube.com/channel/UCq7G3p4msVN5SX2CpJ86tTw',	'989c99'],
-					'kawaisprite',		"Composer of Friday Night Funkin'",								'https://twitter.com/kawaisprite',		'378FC7']
+			['TheMigo',		'TheMigo',		' Main Coder',							'
 		];
 		
 		for(i in pisspoop){
